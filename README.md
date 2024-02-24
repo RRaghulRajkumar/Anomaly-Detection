@@ -43,6 +43,9 @@ Anomalies in web traffic data could indicate a variety of issues, including secu
 # Log File
 ![log](https://github.com/RRaghulRajkumar/Anomaly-Detection/blob/main/images/logfile.png)
 ---------------------------
+# App Link ⤵️
+https://raghulrajkumar.streamlit.app/
+---------------------------
 # Connect 🚀
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/rraghulrajkumar/)
 
