@@ -26,6 +26,25 @@ Anomalies in web traffic data could indicate a variety of issues, including secu
 - Integrate additional data sources, such as server logs and network traffic, for more comprehensive anomaly detection.
 - Enhance the user interface with advanced visualization tools for better insights into detected anomalies.
 
-## Gradio App
-## Streamlit App
+# Gradio App
+![Gradio App](https://github.com/RRaghulRajkumar/Anomaly-Detection/blob/main/images/gradioapp.png)
+![Gradio App](https://github.com/RRaghulRajkumar/Anomaly-Detection/blob/main/images/gradionormal.png)
+![Gradio App](https://github.com/RRaghulRajkumar/Anomaly-Detection/blob/main/images/gradioweird.png)
+---------------------------
+# Streamlit App
+![streamlit](https://github.com/RRaghulRajkumar/Anomaly-Detection/blob/main/images/streamlitapp1.png)
+![streamlit](https://github.com/RRaghulRajkumar/Anomaly-Detection/blob/main/images/streamlitapp2.png)
+![streamlit](https://github.com/RRaghulRajkumar/Anomaly-Detection/blob/main/images/streamlitweird.png)
+![streamlit](https://github.com/RRaghulRajkumar/Anomaly-Detection/blob/main/images/modelreload.png)
+---------------------------
+# Dataset
+![dataset](https://github.com/RRaghulRajkumar/Anomaly-Detection/blob/main/images/dataset.png)
+---------------------------
+# Log File
+![log](https://github.com/RRaghulRajkumar/Anomaly-Detection/blob/main/images/logfile.png)
+---------------------------
+# Connect 🚀
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/rraghulrajkumar/)
+
+
 
